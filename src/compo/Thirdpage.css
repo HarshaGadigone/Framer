@@ -1,0 +1,27 @@
+#third1{
+
+    background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 49.92%, #FFFFFF 100%);
+    width: 1200px;
+    width: fit-content;
+    height: auto;
+    margin-left: 72px;
+   
+}
+img{
+    padding-right: 75px;
+}
+.grand_parent{
+    
+    background: linear-gradient(90deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 49.92%, #FFFFFF 100%);
+} 
+.parents{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+}
+.child{ 
+       
+        height: 32px;
+        flex: 1 1 146px;
+}

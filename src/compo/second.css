@@ -1,0 +1,98 @@
+#main{
+  
+   
+background: linear-gradient(201.28deg, #EAEEFE 45.21%, #183EC2 97.31%);
+
+
+}
+#pathway{ 
+    
+    width: 511px;
+    height: auto;
+    margin-top: 105px;
+
+}
+.version20{
+    width: fit-content;
+    
+    top: -44px;
+}
+#pathway-h1{
+
+font-family: DM Sans;
+font-size: 90px;
+font-weight: 700;
+line-height: 90px;
+letter-spacing: -0.065em;
+text-align: left;
+color: linear-gradient(180deg, #000000 0%, #001354 100%);
+}
+
+
+#pathway-p{
+    width: fit-content;
+font-family: Inter;
+font-size: 22px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: -0.036em;
+text-align: left;
+color: #010D3E;
+
+}
+#pathway-btn{
+   
+    top: 340px;
+    width: fit-content;
+height: 39px;
+padding: 5px 15px 25px 15px;
+gap: 4px;
+border-radius: 10px 10px 10px 10px;
+opacity: 0px;
+background: #000000;
+color: #EAEEFE;
+
+}
+#pathway-learn{
+ 
+    top: 340px;
+    left: 122px;
+height: 40px;
+padding: 10px 0px 10px 0px;
+gap: 4px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin-left: 134px;
+margin-top: -42px;
+}
+
+#cylinder1{
+    max-width: 100%;
+    max-height:auto;
+    display: block;
+    margin: auto;
+    margin-left: -124px;
+    }
+
+    #visual{
+        
+        max-width: 100%;
+        max-height:auto;
+        display: block;
+        margin: auto;
+
+    }
+    #halfto{
+        margin-left: 309px;
+        margin-top: -88px;
+    }
+    @media(max-width:768){
+        #main{height: auto; width: auto}
+    }
+    @media (min-width:320px) and (max-width:428){
+        #pathway #pathway-h1{
+            font-size: 20px;
+            background-color: aqua;
+        }
+    }
+    

@@ -1,0 +1,73 @@
+
+#contddl{
+    background: linear-gradient(180deg, #FFFFFF 27.96%, #D2DCFF 100%);
+    width: auto;   
+}
+#cont1{
+     width: 450px;;
+}
+.parent{
+ width: 440px;
+    height: 289px;
+}
+
+#boot_your{
+    width: 165px;
+    height: 59px;
+padding: 10px 13px 10px 13px;
+gap: 10px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(34, 34, 34, 0.1);
+margin-left: 114px;
+
+}
+#boot_your2{
+    width: 139px;
+height: 31px;
+justify-content: space-around;
+font-family: Inter;
+font-size: 13px;
+font-weight: 500;
+line-height: 31px;
+letter-spacing: -0.025em;
+text-align: left;
+}
+#A_more{
+font-family: DM Sans;
+font-size: 54px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: -0.06em;
+text-align: center;
+color: linear-gradient(180deg, #000000 0%, #001354 100%);
+
+}
+#product1{
+          max-width: 100%;
+          max-height:auto;
+          display: block;
+          margin: auto;  
+}
+#pro2{
+    max-width: 100%;
+          max-height:auto;
+          display: block;
+          margin: auto; 
+          margin: auto;
+          margin-right: -42px;
+          margin-top: -572px;
+          width: 237px;
+    
+}
+#product3{
+    max-width: 100%;
+          max-height:auto;
+          display: block;
+          margin: auto; 
+          margin-left: -25px;
+    margin-top: -368px;
+    width: 245px;
+         
+}
